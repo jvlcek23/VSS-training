@@ -1,3 +1,13 @@
-p{
-    color:red;
+.asteroid-big{ 
+    background:yellow;   
 }
+.asteroid-b329-big,.asteroid-big{
+    color:blue;
+}
+#b325,.asteroid-b326{
+    border:1px solid green;
+}
+.asteroid-b329-big,#b325,.asteroid-b326{
+    font-weight:bold;
+}
+
